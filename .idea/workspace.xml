@@ -66,10 +66,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1579342216405">
+    <state x="579" y="170" key="FileChooserDialogImpl" timestamp="1583577770323">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1579342216405" />
+    <state x="579" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583577770323" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1583577479315">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583577479315" />
+    <state x="182" y="49" key="new project wizard" timestamp="1583577775706">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="49" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1583577775706" />
     <state x="506" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1579343780856">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
